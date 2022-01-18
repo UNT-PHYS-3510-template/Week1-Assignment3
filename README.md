@@ -1,4 +1,4 @@
-# Week 1 Assignment 3
+# Assignments and math in Python
 
 Debugging is one of the most important parts of computational thinking. Finding and fixing bugs (errors) is often a tedious task that requires to develop strategy and some good habits. 
 
